@@ -2,7 +2,6 @@
   "name": "myltemplate",
   "version": "1.0.0",
   "description": "Command Handler, Event Handler, Json Utils, DB Array Utils, for discord.",
-  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

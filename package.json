@@ -6,8 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mylhow#0666",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgascon/DiscordTemplate.git"
+  },
+  "author": "mylhow#0666",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgascon/DiscordTemplate/issues"
+  },
   "keywords": [
     "discord",
     "discordjs",

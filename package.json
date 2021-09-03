@@ -1,0 +1,25 @@
+{
+  "name": "myltemplate",
+  "version": "1.0.0",
+  "description": "Command Handler, Event Handler, Json Utils, DB Array Utils, for discord.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mylhow#0666",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discordjs",
+    "template",
+    "event handler",
+    "command handler"
+  ],
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "ms": "^2.1.3",
+    "path": "^0.12.7"
+  }
+}
